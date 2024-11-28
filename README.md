@@ -41,7 +41,7 @@ pip install -r requirements.txt
 python3 mylfi.py
 ```
 
-![preview](https://github.com/mahaveer-choudhary/my403/blob/main/my403%20images/preview.gif)
+![preview](https://github.com/mahaveer-choudhary/mylfi/blob/main/img/preview.gif)
 
 
 ### Disclaimer

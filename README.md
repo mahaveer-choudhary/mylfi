@@ -14,7 +14,7 @@ This is a command-line tool for testing Local File Inclusion (LFI) vulnerabiliti
 ### Installation 
 - **Clone the repository**
 ```bash 
-git clone https://github.com/lfi_scanner/mylfi.git
+git clone https://github.com/mahaveer-choudhary/mylfi.git
 ```
 
 ```bash

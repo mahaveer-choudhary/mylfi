@@ -9,6 +9,8 @@ This is a command-line tool for testing Local File Inclusion (LFI) vulnerabiliti
 - **Result Saving**: Allows saving discovered vulnerable URLs to a file.
 - **Customizable Payloads**: can load custom payloads.
 
+<img src="img/image.png" alt="mylfi" width="1000px">
+
 ### Installation 
 - **Clone the repository**
 ```bash 
@@ -38,8 +40,6 @@ pip install -r requirements.txt
 ```bash
 python3 mylfi.py
 ```
-<img src="my403 images/help.png" alt="4-ZERO-3" width="1000px">
-
 
 ![preview](https://github.com/mahaveer-choudhary/my403/blob/main/my403%20images/preview.gif)
 
